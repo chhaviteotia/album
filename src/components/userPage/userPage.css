@@ -1,0 +1,27 @@
+.user-container{
+    background-color: #fffdad;
+    position: relative;
+    
+}
+.user-container h1{
+    text-align: center;
+}
+.user-card {
+    margin-bottom: 20px;
+    background-color: antiquewhite;
+    border: 1px solid black;
+    max-width: 550px;
+    /* position: absolute;
+    left: 20%; */
+    margin-left: 180px;
+    padding: 20px;
+}
+.user-card span{
+    margin-left: 40px;
+    text-align: left;
+}
+button{
+    background-color: lightgreen;
+    padding: 10px;
+    border: 2px solid blue;
+}
